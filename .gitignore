@@ -3,7 +3,9 @@ __pycache__
 *.coverage
 *.db
 *.pyc
-
+.idea/workspace.xml
+.idea
+.idea/
 htmlcov
 migrations
 
